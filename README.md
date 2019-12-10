@@ -67,6 +67,8 @@
 >>      * brat是基于python的**自然语言**标注工具，设计灵活，实用，应用广泛。
 >> - **[MarqueeLabel](https://github.com/cbpowell/MarqueeLabel)**
 >>      * MarqueeLabel是基于Swift和C的**自然语言**标注工具，设计灵活，实用，应用广泛。
+>> - **[Chinese-Annotator](https://github.com/deepwel/Chinese-Annotator)**
+>>      * Annotator for Chinese Text Corpus (UNDER DEVELOPMENT) 中文文本标注工具。
 
 ## <a name="Audio"></a>4. Audio
 >> - **[audio-annotator](https://github.com/CrowdCurio/audio-annotator)**
